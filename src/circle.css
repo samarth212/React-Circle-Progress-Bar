@@ -1,0 +1,18 @@
+.circle-bg{
+    fill: seashell;
+    stroke: none;
+}
+
+.circle-progress{
+    fill: none;
+    stroke: #13FB99;
+    stroke-linejoin: round;
+    transition: stroke-dashoffset 2.5s ease;
+}
+
+.circle-text{
+    font-family: 'Arial';
+    font-size: 30px;
+    font-weight: 900;
+    background-color: black;
+}
